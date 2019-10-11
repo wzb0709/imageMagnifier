@@ -1,8 +1,9 @@
 {
   "name": "react-image-magnifier-wzb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "author": "wzb0709",
+  "keywords": ["react","react-component","image","magnifier"],
   "license": "MIT",
   "repository": "https://github.com/wzb0709/imageMagnifier",
   "main": "dist/index.js",
